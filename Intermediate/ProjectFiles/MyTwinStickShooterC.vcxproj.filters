@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyTwinStickShooterC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{26CEC282-521E-4EAC-A02E-653C28035E3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyTwinStickShooterC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyTwinStickShooterCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6C0EC1EA-0A51-4C0D-A879-984CC381FB18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyTwinStickShooterC">
+      <UniqueIdentifier>{DC19241F-052B-4DC9-9422-274FA7D13BD7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterC.Build.cs">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterC.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterC.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCGameMode.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCGameMode.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCPawn.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCPawn.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCProjectile.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\MyTwinStickShooterCProjectile.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\EnemyActor.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\PlayerProjectile.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\BenefitPackageActor.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\EnemyBossActor.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyTwinStickShooterC\LeaderBoardSaveGame.h">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\EnemyActor.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\PlayerProjectile.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\BenefitPackageActor.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\EnemyBossActor.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyTwinStickShooterC\LeaderBoardSaveGame.cpp">
+      <Filter>Source\MyTwinStickShooterC</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

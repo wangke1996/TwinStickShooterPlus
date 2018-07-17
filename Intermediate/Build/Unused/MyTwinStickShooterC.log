@@ -1,0 +1,11 @@
+﻿  Performing full C++ include scan (hot reloading a new target)
+  Compiling game modules for hot reload
+  Performing 4 actions (4 in parallel)
+  [2/4] Resource PCLaunch.rc
+  MyTwinStickShooterCGameMode.cpp
+  [3/4] Link UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.dll
+  [4/4] Link UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.lib
+    正在创建库 D:\UE4demo\MyTwinStickShooterC\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.lib 和对象 D:\UE4demo\MyTwinStickShooterC\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.exp
+    正在创建库 D:\UE4demo\MyTwinStickShooterC\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.suppressed.lib 和对象 D:\UE4demo\MyTwinStickShooterC\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-MyTwinStickShooterC-4732-Win64-DebugGame.suppressed.exp
+  Deploying MyTwinStickShooterCEditor Win64 DebugGame...
+  Total build time: 13.70 seconds (Local executor: 12.46 seconds)
